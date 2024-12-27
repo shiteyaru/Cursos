@@ -1,0 +1,43 @@
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\helloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\helloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\helloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\helloWorld\obj\HelloWorld.csproj.nuget.dgspec.json
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\helloWorld\obj\project.assets.json
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\C# Básico.exe
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\C# Básico.deps.json
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\C# Básico.runtimeconfig.json
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\C# Básico.runtimeconfig.dev.json
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\C# Básico.dll
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\ref\C# Básico.dll
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\C# Básico.pdb
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\C# Básico.Views.dll
+C:\Users\User\Desktop\cursos\C# Básico\bin\Debug\net5.0\C# Básico.Views.pdb
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\staticwebassets\C# Básico.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\staticwebassets\C# Básico.StaticWebAssets.xml
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\scopedcss\bundle\C# Básico.styles.css
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.TagHelpers.input.cache
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.TagHelpers.output.cache
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.RazorCoreGenerate.cache
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.Views.pdb
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.dll
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\ref\C# Básico.dll
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.pdb
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.genruntimeconfig.cache
+C:\Users\User\Desktop\cursos\C# Básico\obj\Debug\net5.0\C# Básico.csproj.CopyComplete
