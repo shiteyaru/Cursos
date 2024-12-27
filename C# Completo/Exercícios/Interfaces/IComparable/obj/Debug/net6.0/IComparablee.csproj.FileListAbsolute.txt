@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\bin\Debug\net6.0\IComparablee.exe
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\bin\Debug\net6.0\IComparablee.deps.json
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\bin\Debug\net6.0\IComparablee.runtimeconfig.json
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\bin\Debug\net6.0\IComparablee.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\bin\Debug\net6.0\IComparablee.pdb
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\obj\Debug\net6.0\IComparablee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\obj\Debug\net6.0\IComparablee.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\obj\Debug\net6.0\IComparablee.AssemblyInfo.cs
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\obj\Debug\net6.0\IComparablee.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\obj\Debug\net6.0\IComparablee.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\obj\Debug\net6.0\refint\IComparablee.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\obj\Debug\net6.0\IComparablee.pdb
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\obj\Debug\net6.0\IComparablee.genruntimeconfig.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Interfaces\IComparable\obj\Debug\net6.0\ref\IComparablee.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\bin\Debug\net6.0\Exercicio1_POO.exe
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\bin\Debug\net6.0\Exercicio1_POO.deps.json
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\bin\Debug\net6.0\Exercicio1_POO.runtimeconfig.json
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\bin\Debug\net6.0\Exercicio1_POO.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\bin\Debug\net6.0\Exercicio1_POO.pdb
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\obj\Debug\net6.0\Exercicio1_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\obj\Debug\net6.0\Exercicio1_POO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\obj\Debug\net6.0\Exercicio1_POO.AssemblyInfo.cs
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\obj\Debug\net6.0\Exercicio1_POO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\obj\Debug\net6.0\Exercicio1_POO.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\obj\Debug\net6.0\refint\Exercicio1_POO.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\obj\Debug\net6.0\Exercicio1_POO.pdb
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\obj\Debug\net6.0\Exercicio1_POO.genruntimeconfig.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Exercicio1_POO\Exercicio1_POO\obj\Debug\net6.0\ref\Exercicio1_POO.dll

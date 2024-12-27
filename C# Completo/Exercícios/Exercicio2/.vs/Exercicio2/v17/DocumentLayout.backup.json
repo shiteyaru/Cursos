@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Exercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F21815E-0177-4D4B-BCB2-60615A454E79}|Exercicio2\\Exercicio2.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\exercicio2\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F21815E-0177-4D4B-BCB2-60615A454E79}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Exercicio2\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Exercicio2\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:34:17.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFAA96C-125E-4B97-9AF1-35C8DC178D4F}|HashSet_SortedSet.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\generics, set, dictionary\\hashset_sortedset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFAA96C-125E-4B97-9AF1-35C8DC178D4F}|HashSet_SortedSet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFAA96C-125E-4B97-9AF1-35C8DC178D4F}|HashSet_SortedSet.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\generics, set, dictionary\\hashset_sortedset\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFAA96C-125E-4B97-9AF1-35C8DC178D4F}|HashSet_SortedSet.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFAA96C-125E-4B97-9AF1-35C8DC178D4F}|HashSet_SortedSet.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\generics, set, dictionary\\hashset_sortedset\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFAA96C-125E-4B97-9AF1-35C8DC178D4F}|HashSet_SortedSet.csproj|solutionrelative:entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFAA96C-125E-4B97-9AF1-35C8DC178D4F}|HashSet_SortedSet.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\generics, set, dictionary\\hashset_sortedset\\hashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFAA96C-125E-4B97-9AF1-35C8DC178D4F}|HashSet_SortedSet.csproj|solutionrelative:hashset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFAA96C-125E-4B97-9AF1-35C8DC178D4F}|HashSet_SortedSet.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\generics, set, dictionary\\hashset_sortedset\\sortedset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFAA96C-125E-4B97-9AF1-35C8DC178D4F}|HashSet_SortedSet.csproj|solutionrelative:sortedset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:07:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "Entities\\Point.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\Entities\\Point.cs",
+              "RelativeToolTip": "Entities\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:07:04.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortedSet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\SortedSet.cs",
+              "RelativeDocumentMoniker": "SortedSet.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\SortedSet.cs",
+              "RelativeToolTip": "SortedSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:33:12.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HashSet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\HashSet.cs",
+              "RelativeDocumentMoniker": "HashSet.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\HashSet.cs",
+              "RelativeToolTip": "HashSet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:32:00.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Generics, Set, Dictionary\\HashSet_SortedSet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:42:13.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

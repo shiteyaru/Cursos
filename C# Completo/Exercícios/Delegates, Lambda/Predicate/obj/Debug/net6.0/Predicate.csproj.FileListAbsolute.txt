@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\bin\Debug\net6.0\Predicate.exe
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\bin\Debug\net6.0\Predicate.deps.json
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\bin\Debug\net6.0\Predicate.runtimeconfig.json
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\bin\Debug\net6.0\Predicate.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\bin\Debug\net6.0\Predicate.pdb
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\obj\Debug\net6.0\Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\obj\Debug\net6.0\Predicate.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\obj\Debug\net6.0\Predicate.AssemblyInfo.cs
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\obj\Debug\net6.0\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\obj\Debug\net6.0\Predicate.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\obj\Debug\net6.0\refint\Predicate.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\obj\Debug\net6.0\Predicate.pdb
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\obj\Debug\net6.0\Predicate.genruntimeconfig.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Delegates, Lambda\Predicate\obj\Debug\net6.0\ref\Predicate.dll

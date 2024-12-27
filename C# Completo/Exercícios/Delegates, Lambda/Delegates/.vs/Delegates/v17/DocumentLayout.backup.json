@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Delegates, Lambda\\Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6FCCA7-B527-4E2B-B5EE-B86A286174EF}|Delegates.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\delegates, lambda\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6FCCA7-B527-4E2B-B5EE-B86A286174EF}|Delegates.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6FCCA7-B527-4E2B-B5EE-B86A286174EF}|Delegates.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\delegates, lambda\\delegates\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6FCCA7-B527-4E2B-B5EE-B86A286174EF}|Delegates.csproj|solutionrelative:services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Delegates, Lambda\\Delegates\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Delegates, Lambda\\Delegates\\Services\\CalculationService.cs",
+              "RelativeToolTip": "Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:47:39.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Delegates, Lambda\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Delegates, Lambda\\Delegates\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:43:14.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

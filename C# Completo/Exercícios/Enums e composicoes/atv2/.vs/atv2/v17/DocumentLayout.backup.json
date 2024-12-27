@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E235DA0C-72B4-42DB-87F6-D77C17083A29}|atv2.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\enums e composicoes\\atv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E235DA0C-72B4-42DB-87F6-D77C17083A29}|atv2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E235DA0C-72B4-42DB-87F6-D77C17083A29}|atv2.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\enums e composicoes\\atv2\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E235DA0C-72B4-42DB-87F6-D77C17083A29}|atv2.csproj|solutionrelative:entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E235DA0C-72B4-42DB-87F6-D77C17083A29}|atv2.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\enums e composicoes\\atv2\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E235DA0C-72B4-42DB-87F6-D77C17083A29}|atv2.csproj|solutionrelative:entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atv2\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atv2\\Entities\\Comment.cs",
+              "RelativeToolTip": "Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:05:41.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atv2\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atv2\\Entities\\Post.cs",
+              "RelativeToolTip": "Entities\\Post.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:04:45.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atv2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atv2\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:02:21.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

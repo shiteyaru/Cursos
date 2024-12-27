@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Heranca e Polimorfismo\\ExercicioResolvido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A0DD77-426F-4BF1-9F6A-CA6BFC837961}|ExercicioResolvido.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\heranca e polimorfismo\\exercicioresolvido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A0DD77-426F-4BF1-9F6A-CA6BFC837961}|ExercicioResolvido.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A0DD77-426F-4BF1-9F6A-CA6BFC837961}|ExercicioResolvido.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\heranca e polimorfismo\\exercicioresolvido\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A0DD77-426F-4BF1-9F6A-CA6BFC837961}|ExercicioResolvido.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A0DD77-426F-4BF1-9F6A-CA6BFC837961}|ExercicioResolvido.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\heranca e polimorfismo\\exercicioresolvido\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A0DD77-426F-4BF1-9F6A-CA6BFC837961}|ExercicioResolvido.csproj|solutionrelative:entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutsourcedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Heranca e Polimorfismo\\ExercicioResolvido\\Entities\\OutsourcedEmployee.cs",
+              "RelativeDocumentMoniker": "Entities\\OutsourcedEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Heranca e Polimorfismo\\ExercicioResolvido\\Entities\\OutsourcedEmployee.cs",
+              "RelativeToolTip": "Entities\\OutsourcedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:59:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Heranca e Polimorfismo\\ExercicioResolvido\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Heranca e Polimorfismo\\ExercicioResolvido\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entities\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:57:50.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Heranca e Polimorfismo\\ExercicioResolvido\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Heranca e Polimorfismo\\ExercicioResolvido\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:54:53.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\enums e composicoes\\atividade1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\enums e composicoes\\atividade1\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|solutionrelative:entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\enums e composicoes\\atividade1\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|solutionrelative:entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\enums e composicoes\\atividade1\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|solutionrelative:entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\enums e composicoes\\atividade1\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|solutionrelative:entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\enums e composicoes\\atividade1\\atividade1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{053BED6A-8A8A-4A68-AD75-2D5C00CE08E5}|atividade1.csproj|solutionrelative:atividade1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "Entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\Entities\\Worker.cs",
+              "RelativeToolTip": "Entities\\Worker.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:04:26.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "Entities\\HourContract.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\Entities\\HourContract.cs",
+              "RelativeToolTip": "Entities\\HourContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:01:23.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\Entities\\Department.cs",
+              "RelativeToolTip": "Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:59:13.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:38:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\WorkerLevel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:05:21.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "atividade1.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\atividade1.csproj",
+              "RelativeDocumentMoniker": "atividade1.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Enums e composicoes\\atividade1\\atividade1.csproj",
+              "RelativeToolTip": "atividade1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T18:54:34.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

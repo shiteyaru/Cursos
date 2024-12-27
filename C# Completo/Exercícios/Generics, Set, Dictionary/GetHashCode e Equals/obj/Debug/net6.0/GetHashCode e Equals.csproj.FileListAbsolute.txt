@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\bin\Debug\net6.0\GetHashCode e Equals.exe
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\bin\Debug\net6.0\GetHashCode e Equals.deps.json
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\bin\Debug\net6.0\GetHashCode e Equals.runtimeconfig.json
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\bin\Debug\net6.0\GetHashCode e Equals.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\bin\Debug\net6.0\GetHashCode e Equals.pdb
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\obj\Debug\net6.0\GetHashCode e Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\obj\Debug\net6.0\GetHashCode e Equals.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\obj\Debug\net6.0\GetHashCode e Equals.AssemblyInfo.cs
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\obj\Debug\net6.0\GetHashCode e Equals.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\obj\Debug\net6.0\GetHashCode e Equals.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\obj\Debug\net6.0\refint\GetHashCode e Equals.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\obj\Debug\net6.0\GetHashCode e Equals.pdb
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\obj\Debug\net6.0\GetHashCode e Equals.genruntimeconfig.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Generics, Set, Dictionary\GetHashCode e Equals\obj\Debug\net6.0\ref\GetHashCode e Equals.dll

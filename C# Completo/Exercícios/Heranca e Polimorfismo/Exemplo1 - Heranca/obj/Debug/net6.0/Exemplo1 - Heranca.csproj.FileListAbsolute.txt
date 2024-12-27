@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\bin\Debug\net6.0\Exemplo1 - Heranca.exe
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\bin\Debug\net6.0\Exemplo1 - Heranca.deps.json
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\bin\Debug\net6.0\Exemplo1 - Heranca.runtimeconfig.json
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\bin\Debug\net6.0\Exemplo1 - Heranca.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\bin\Debug\net6.0\Exemplo1 - Heranca.pdb
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\obj\Debug\net6.0\Exemplo1 - Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\obj\Debug\net6.0\Exemplo1 - Heranca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\obj\Debug\net6.0\Exemplo1 - Heranca.AssemblyInfo.cs
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\obj\Debug\net6.0\Exemplo1 - Heranca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\obj\Debug\net6.0\Exemplo1 - Heranca.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\obj\Debug\net6.0\refint\Exemplo1 - Heranca.dll
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\obj\Debug\net6.0\Exemplo1 - Heranca.pdb
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\obj\Debug\net6.0\Exemplo1 - Heranca.genruntimeconfig.cache
+C:\Users\User\Desktop\cursos\C# Completo\Exercícios\Heranca e Polimorfismo\Exemplo1 - Heranca\obj\Debug\net6.0\ref\Exemplo1 - Heranca.dll

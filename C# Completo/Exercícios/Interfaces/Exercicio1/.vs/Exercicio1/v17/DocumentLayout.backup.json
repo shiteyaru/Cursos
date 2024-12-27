@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\interfaces\\exercicio1\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|solutionrelative:services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\interfaces\\exercicio1\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|solutionrelative:entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\interfaces\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\interfaces\\exercicio1\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|solutionrelative:entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\interfaces\\exercicio1\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|solutionrelative:services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|c:\\users\\user\\desktop\\cursos\\c# completo\\exerc\u00EDcios\\interfaces\\exercicio1\\services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8739A9EA-472E-4190-9FF2-8A67EF013605}|Exercicio1.csproj|solutionrelative:services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Services\\ContractService.cs",
+              "RelativeDocumentMoniker": "Services\\ContractService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Services\\ContractService.cs*",
+              "RelativeToolTip": "Services\\ContractService.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:04:33.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Services\\PaypalService.cs",
+              "RelativeDocumentMoniker": "Services\\PaypalService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Services\\PaypalService.cs",
+              "RelativeToolTip": "Services\\PaypalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:44:24.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOnlinePaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Services\\IOnlinePaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\IOnlinePaymentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Services\\IOnlinePaymentService.cs",
+              "RelativeToolTip": "Services\\IOnlinePaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:40:37.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Installment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Entities\\Installment.cs",
+              "RelativeDocumentMoniker": "Entities\\Installment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Entities\\Installment.cs",
+              "RelativeToolTip": "Entities\\Installment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:51:18.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "Entities\\Contract.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Entities\\Contract.cs",
+              "RelativeToolTip": "Entities\\Contract.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:51:11.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cursos\\C# Completo\\Exerc\u00EDcios\\Interfaces\\Exercicio1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:49:48.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
